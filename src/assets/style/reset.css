@@ -1,0 +1,15 @@
+body, ul, ol, li, p, h1, h2, h3, h4, h5, h6, form, fieldset, table, tr, th, td, img, div, dl, dt, dd, input, span, a {
+    margin: 0;
+    padding: 0;
+}
+
+html, body, #app {
+    height: 100%;
+}
+a:link , a:visited{
+    text-decoration: none;
+    color: #2c3e50;
+}
+a:hover{
+    color: rgb(74, 189, 235);
+}
